@@ -1,7 +1,9 @@
 
 # FOO BAR QUIX Kata Project
 
-In this project, we have used Spring Boot and Spring Batch to execute batch jobs. It includes an API endpoint that triggers the execution of a batch job and returns a response indicating whether the execution was successful or failed.
+In this project, we have used Spring Boot and Spring Batch to execute batch jobs.
+
+It includes an API endpoint that triggers the execution of a batch job and returns a response indicating whether the execution was successful or failed.
 
 
 Accessing Swagger
